@@ -17,10 +17,6 @@ body {
   padding-bottom: 20px;
 }
 
-h1 {
-    color: green;
-}
-
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
 .marketing,
@@ -62,6 +58,9 @@ h1 {
   .btn {
     font-size: 21px;
     padding: 14px 24px;
+  }
+  h1 {
+    color: green;
   }
 }
 
